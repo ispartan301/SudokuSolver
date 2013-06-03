@@ -7,7 +7,8 @@ Sudoku Solver
 - forward chaining is implemented and tested
 
 ###### USAGE ######
-```$ python sudoku.py test/some_file.txt 
+```
+$ python sudoku.py test/some_file.txt 
 ```
 
 ###### AUTHOR ######
